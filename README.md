@@ -7,6 +7,7 @@ New_RGC_1e6: A file contain randomized geneitc code information by S&Z's method.
 Hurst_1e6: A file contain randomized geneitc code information by conventional method (Haig and Hurst 1991)  
 XX_freq.txt: These files are computed codon frequencies in the transcriptome instead of the genome  
 XXX_pvalue_dictionary.json: These files are pvalue dictionary files  
+  
 Code:  
 P_value_calculation_Method1_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs  
 P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs but ignoring the stop codon for calculation  
