@@ -9,6 +9,7 @@ XX_freq.txt: These files are computed codon frequencies in the transcriptome ins
 XXX_pvalue_dictionary.json: These files are pvalue dictionary files  
   
 Code:  
+Simulaiton_RGC_Science_paper_method_GH.ipynb: Code for simulating RGC based on S&Z's method
 P_value_calculation_Method1_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs  
 P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs but ignoring the stop codon for calculation  
 P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the Hurst's method for simulating RGCs but ignoring the stop codon for calculation  
