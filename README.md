@@ -11,6 +11,6 @@ XXX_pvalue_dictionary.json: These files are pvalue dictionary files
 **Code:**  
 Simulaiton_RGC_Science_paper_method_GH.ipynb: Code for simulating RGC based on S&Z's method
 P_value_calculation_Method1_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs. Graph nERMC_Method1.png will be helpful for understanding the matrix calculation of nERMC  
-P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs but ignoring the stop codon for calculation Graph nERMC_Method2.png will be helpful for understanding the matrix calculation of nERMC    
-P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the Hurst's method for simulating RGCs but ignoring the stop codon for calculation Graph nERMC_Method3.png will be helpful for understanding the matrix calculation of nERMC    
+P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the S&Z's method for simulating RGCs but ignoring the stop codon for calculation. Graph nERMC_Method2.png will be helpful for understanding the matrix calculation of nERMC    
+P_value_calculation_Method2_GH.ipynb: This notebook calculates the nERMC and pvalue of SGC using the Hurst's method for simulating RGCs but ignoring the stop codon for calculation. Graph nERMC_Method3.png will be helpful for understanding the matrix calculation of nERMC    
 Plot: This notebook is used for plotting all the figures except figure 1  
